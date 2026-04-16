@@ -12,11 +12,11 @@ return [
     'English'=>'الانجليزية',
     'Arabic'=>'العربية',
     'Orders'=>'طلب منتج',
-    'Carts'=>'السلة',
+    'Carts'=>'سله',
     'Logout'=>'تسجيل الخروج',
     'Welcome'=>'مرحبا',
     'Wishlist'=>'Wishlist',
     'Login' =>'تسجيل الدخول',
-    'Register'=>'تسجيل الدخول جديد',
+    'Register'=>'انشاء حساب جديد',
 
 ];

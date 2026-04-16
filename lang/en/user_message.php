@@ -7,7 +7,7 @@ return [
     'About Us'=>'About Us',
     'Contact Us'=>'Contact Us',
     'Latest Products'=>'Latest Products',
-    'view all products'=>'view all products',
+    'view all products'=>'view all product',
     'English'=>'English',
     'Arabic'=>'Arabic',
     'Orders'=>'Orders',
@@ -18,3 +18,4 @@ return [
     'Login' =>'Login',
     'Register'=>'Register',
 ];
+

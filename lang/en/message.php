@@ -1,5 +1,6 @@
 <?php 
 return [
+     'dir'=>'ltr',
     "Dashboard"=>"Dashboard",
     "Products"=>"Products",
     "All Products"=>"All Products",
